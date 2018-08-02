@@ -3,7 +3,7 @@ import enums
 
 class Client(object):
 
-    API_URL = 'https://beta-pro-api.coinmarketcap.com'
+    API_URL = 'https://pro-api.coinmarketcap.com'
     API_VERSION = 'v1'
 
     def __init__(self, api_key):
