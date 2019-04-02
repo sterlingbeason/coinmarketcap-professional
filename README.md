@@ -1,3 +1,5 @@
+This repository has been archived. Alternatives to CoinMarketCap API have emerged that are cheaper and **free** for cryptocurrency hobbyists.
+
 # Welcome to coinmarketcap-professional v0.0.1
 This is an unofficial Python wrapper for the CoinMarketCap Professional API v1. I am in no way affiliated with CoinMarketCap, use at your own risk.
 
